@@ -7,17 +7,17 @@
 <br>
 ![group-keyeast][keyeast-image]
 
-> XpressEngine 1.8 그리고 DokuWiki를 이용하여 창원과학고등학교 교내 커뮤니티 CSHians를 운영했습니다.
+> XpressEngine 1.8 그리고 DokuWiki를 이용하여 창원과학고등학교 커뮤니티 CSHians를 운영했습니다.
 
 ### 스크린샷
 
-<img src="documents/screenshot_login.png" height="400px">
+<img src="documents/screenshot_login.png" height="350px">
 
-<img src="documents/screenshot_front.png" height="400px">
+<img src="documents/screenshot_front.png" height="350px">
 
-<img src="documents/screenshot_board.png" height="400px">
+<img src="documents/screenshot_board.png" height="350px">
 
-<img src="documents/screenshot_dokuwiki.png" height="400px">
+<img src="documents/screenshot_dokuwiki.png" height="350px">
 
 ### 개발 기간
 
