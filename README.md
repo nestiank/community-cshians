@@ -11,13 +11,13 @@
 
 ### 스크린샷
 
-<img src="documents/screenshot_login.png" height="350px">
+<img src="static/screenshot_login.png" height="350px">
 
-<img src="documents/screenshot_front.png" height="350px">
+<img src="static/screenshot_front.png" height="350px">
 
-<img src="documents/screenshot_board.png" height="350px">
+<img src="static/screenshot_board.png" height="350px">
 
-<img src="documents/screenshot_dokuwiki.png" height="350px">
+<img src="static/screenshot_dokuwiki.png" height="350px">
 
 ### 개발 기간
 
@@ -27,8 +27,8 @@
 
 서비스 종료 이후 백업 과정에서 소스가 모두 유실되었습니다.
 
-  * `유실` 웹호스팅에 XpressEngine 1.8.22 그리고 DokuWiki를 설치하고 관리
-  * `유실` 공개 플러그인과 jQuery를 이용하여 커스텀 로그인 페이지를 제작
+  * 웹호스팅에 XpressEngine 1.8.22 그리고 DokuWiki를 설치하고 관리
+  * 공개 플러그인과 jQuery를 이용하여 커스텀 로그인 페이지를 제작
   * 개발 블로그 운영
 
 ### 라이선스 및 공동체 수정
