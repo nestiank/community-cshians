@@ -4,8 +4,6 @@
 [![library-xe1][library-xe1]][library-xe1-url]
 <br>
 ![participants-solo][participants-solo]
-<br>
-![group-keyeast][keyeast-image]
 
 > XpressEngine 1.8 그리고 DokuWiki를 이용하여 창원과학고등학교 커뮤니티 CSHians를 운영했습니다.
 
@@ -40,7 +38,6 @@
     * 깃허브 Pull Request를 받지 않습니다.
 
 <!-- Image definitions -->
-[keyeast-image]: https://img.shields.io/badge/Group-Key.East-red
 [markup-html]: https://img.shields.io/badge/Markup-HTML-orange
 [library-xe1]: https://img.shields.io/badge/Library-XpressEngine%201.8-green
 [library-xe1-url]: https://xe1.xpressengine.com
