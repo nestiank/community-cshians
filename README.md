@@ -9,13 +9,13 @@
 
 ### 스크린샷
 
-<img src="static/screenshot_login.png" height="350px">
+<img src="/static/screenshot_login.png" height="350px">
 
-<img src="static/screenshot_front.png" height="350px">
+<img src="/static/screenshot_front.png" height="350px">
 
-<img src="static/screenshot_board.png" height="350px">
+<img src="/static/screenshot_board.png" height="350px">
 
-<img src="static/screenshot_dokuwiki.png" height="350px">
+<img src="/static/screenshot_dokuwiki.png" height="350px">
 
 ### 개발 기간
 
